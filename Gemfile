@@ -9,6 +9,8 @@ gem 'sqlite3'
 gem 'devise'
 #protejer atributos
 gem 'protected_attributes'
+#para mejorar los form
+gem 'simple_form'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
